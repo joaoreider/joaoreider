@@ -1,7 +1,7 @@
 ## Hi there 👋! I'm João Paulo
 
 
-
+- 🎓 I study control engineering at the Federal University of Bahia 
 - 🌱 I’m currently learning Python and its web framework (Django). I intend to become a backend developer
 - 📫 How to reach me: joaopauloj405@gmail.com 
 - 😄 Pronouns: He/his
