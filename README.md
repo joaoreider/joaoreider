@@ -2,8 +2,8 @@
 
 
 - 🎓 I study control engineering at the Federal University of Bahia 
-- 🌱 I’m currently learning Python and its web framework (Django).
-- 📫 How to reach me: joaopauloj405@gmail.com 
+- 🌱 Jr Backend Developer at Igma.
+- 📫 How to reach me: contato.joaopaulo14gmail.com 
 - 😄 Pronouns: He/his
 
 
