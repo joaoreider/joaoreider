@@ -1,5 +1,5 @@
 ## Hi there 👋! I'm João Paulo, Brazilian
-Always excited to see where it takes me
+
 
 
 - 👦🏻 Brazilian, 23 years old
