@@ -1,4 +1,4 @@
-## Hi there 👋! I'm João Paulo, Brazilian
+## Hi there 👋! I'm João Paulo
 
 
 
