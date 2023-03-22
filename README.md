@@ -3,7 +3,6 @@
 
 
 - 👦🏻 Brazilian, 23 years old
-- 🖥️ Backend Developer
 - 🌎 Always excited to see where it takes me...
 
 
