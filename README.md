@@ -2,7 +2,7 @@
 
 
 
-- 👦🏻 Brazilian, 23 years old
+- 👦🏻 Brazilian
 - 🌎 Always excited to see where it takes me...
 
 
