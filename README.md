@@ -20,7 +20,7 @@ class Joao {
        city:      "Salvador/BA, 🇧🇷",
        interests:  '("programming" "games" 
                    "artificial intelligence" "free software" 
-                   "web" "maths" "progressive rock" 
+                   "web" "maths" "alternative rock" 
                    "tech" "hunterXhunter"),
                    
        lang:       🇧🇷, 🇬🇧
