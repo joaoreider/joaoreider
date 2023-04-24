@@ -1,18 +1,46 @@
 ## Hi there 👋! I'm João Paulo
 
-
-
-- 👦🏻 Brazilian
 - 🌎 Always excited to see where it takes me...
 
+```javascript
+class Joao {
+  constructor() {
+    this.name = "João Paulo";
+    this.age = 23;
+  }
 
+  introduce() {
+    console.log(`I like to study, code and solve problems in an elegant and intelligent way`);
+  }
+  
+  data() {
+  
+    return   {
+       position: "Backend Developer",
+       city:      "Salvador/BA, 🇧🇷",
+       interests:  '("programming" "games" 
+                   "artificial intelligence" "free software" 
+                   "web" "maths" "progressive rock" 
+                   "tech" "hunterXhunter"),
+                   
+       lang:        '(🇧🇷, 🇬🇧)))
+    
+    }
 
+  }
+}
 
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Gon-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/648146327146070030/1037180633899876452/gon-smile_gif.gif">
- 
-</div>
+```
+<!---------------------
+     STATS SECTION 
+----------------------->
+&nbsp;&nbsp;    
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
+     alt="github logo"
+     height="30px"
+     align="left" />
+     
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreider&layout=compact&langs_count=6"
+     align="center" 
+      />
 
