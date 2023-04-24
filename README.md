@@ -35,10 +35,6 @@ class Joao {
      STATS SECTION 
 ----------------------->
 &nbsp;&nbsp;    
-<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
-     alt="github logo"
-     height="30px"
-     align="left" />
      
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreider&layout=compact&langs_count=6"
      align="center" 
