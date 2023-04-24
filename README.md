@@ -23,7 +23,7 @@ class Joao {
                    "web" "maths" "progressive rock" 
                    "tech" "hunterXhunter"),
                    
-       lang:        '(🇧🇷, 🇬🇧)))
+       lang:       🇧🇷, 🇬🇧
     
     }
 
