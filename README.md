@@ -19,7 +19,7 @@ class Joao {
        position: "Backend Developer",
        city:      "Salvador/BA, 🇧🇷",
        interests:  '("programming" "games" 
-                   "artificial intelligence" "free software" 
+                   "artificial intelligence" "education" 
                    "web" "maths" "alternative rock" 
                    "tech" "hunterXhunter"),
                    
