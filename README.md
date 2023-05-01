@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm João Paulo
 
-- 🌎 Always excited to see where it takes me...
+- 🌎 
 
 ```javascript
 class Joao {
