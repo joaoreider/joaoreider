@@ -30,13 +30,5 @@ class Joao {
   }
 }
 
-```
-<!---------------------
-     STATS SECTION 
------------------------>
-&nbsp;   
-     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreider&layout=compact&langs_count=6"
-     align="center" 
-      />
+
 
