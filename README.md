@@ -10,7 +10,7 @@ class Joao {
   }
 
   introduce() {
-    console.log(`I like to study, code and solve problems in an elegant and intelligent way`);
+    console.log(`Gaming, coding, and physics. Ready to take on any virtual challenge`);
   }
   
   data() {
