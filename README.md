@@ -6,11 +6,11 @@
 class Joao {
   constructor() {
     this.name = "João Paulo";
-    this.age = 23;
+    this.age = 24;
   }
 
   introduce() {
-    console.log(`Gaming, coding, and physics. Ready to take on any virtual challenge`);
+    console.log(`Computer Science, gaming and physics. Ready to take on any virtual challenge`);
   }
   
   data() {
