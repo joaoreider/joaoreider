@@ -10,18 +10,16 @@ class Joao {
   }
 
   introduce() {
-    console.log(`Computer Science, gaming and physics. Ready to take on any virtual challenge`);
+    console.log(`Computer Science, gaming and physics. Turning ideas into code`);
   }
   
   data() {
   
     return   {
        position: "Backend Developer",
-       city:      "Salvador/BA, 🇧🇷",
        interests:  '("programming" "games" 
                    "artificial intelligence" "education" 
-                   "web" "maths" "alternative rock" 
-                   "tech" "hunterXhunter"),
+                   "web" "maths" "tech" ),
                    
        lang:       🇧🇷, 🇬🇧
     
