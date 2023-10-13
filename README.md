@@ -10,16 +10,14 @@ class Joao {
   }
 
   introduce() {
-    console.log(`Computer Science, gaming and physics. Turning ideas into code`);
+    console.log(`Computer science enthusiast and developer. Curious by nature, passionate about physics. `);
   }
   
   data() {
   
     return   {
        position: "Backend Developer",
-       interests:  '("programming" "games" 
-                   "artificial intelligence" "education" 
-                   "web" "maths" "tech" ),
+       interests:  '("programming" "games" "education" "web" "physics" "maths" "tech" ),
                    
        lang:       🇧🇷, 🇬🇧
     
