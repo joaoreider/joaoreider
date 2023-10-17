@@ -10,7 +10,7 @@ class Joao {
   }
 
   introduce() {
-    console.log(`Computer science enthusiast and developer. Curious by nature, passionate about physics. `);
+    console.log(`Self-taught, developer and enthusiast of computer science, physics and mathematics. Curious by nature. Turning ideas into code.  `);
   }
   
   data() {
