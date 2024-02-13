@@ -10,16 +10,14 @@ class Joao {
   }
 
   introduce() {
-    console.log(`Self-taught, developer and enthusiast of computer science,
-                physics and mathematics. Curious by nature. Turning ideas into code.`);
+    console.log(`Born in Salvador-BA, Brazil, i am a highly self-taught programmer and enthusiast of computer science, physics and mathematics. `);
   }
   
   data() {
   
     return   {
        position: "Backend Developer",
-       interests:  '("programming" "games" "education" "web" "physics" "maths" "tech" ),
-                   
+       skills: [Nodejs/Nestjs, Typescript, Python, Docker, SQL, AWS Certified (CLF-C02)],        
        lang:       🇧🇷, 🇬🇧
     
     }
