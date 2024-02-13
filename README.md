@@ -10,7 +10,8 @@ class Joao {
   }
 
   introduce() {
-    console.log(`Born in Salvador-BA, Brazil, i am a highly self-taught programmer and enthusiast of computer science, physics and mathematics. `);
+    console.log(`Born in Salvador-BA, Brazil, i am a highly self-taught programmer
+                  and enthusiast of computer science, physics and mathematics. `);
   }
   
   data() {
