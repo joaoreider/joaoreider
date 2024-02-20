@@ -18,7 +18,7 @@ class Joao {
   
     return   {
        position: "Backend Developer",
-       skills: [Nodejs/Nestjs, Typescript, Python, Docker, SQL, AWS Certified (CLF-C02)],        
+       skills: [Nodejs/Nestjs, Typescript, Python, Docker, React, AWS Certified (CLF-C02)],        
        lang:       🇧🇷, 🇬🇧
     
     }
