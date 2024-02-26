@@ -1,4 +1,5 @@
 ## Hi there 👋! I'm João Paulo
+### My Linkedin https://www.linkedin.com/in/joaopaulojp/
 
 - 🌎 
 
