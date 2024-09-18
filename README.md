@@ -3,8 +3,3 @@
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/joaopaulojp)
 </div>
-<pre>
-     back-end • devops  • linux  •  software architecture • music • games •  code • art • astronomy • science • sports
-</pre>
-
-
